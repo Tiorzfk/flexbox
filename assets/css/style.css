@@ -9,6 +9,9 @@ p {
     line-height: 20px;
 }
 
+.flex h3 {
+    line-height: 40px;
+}
 
 body {
     background-color: rgba(255, 137, 137, 0.85);
